@@ -1,6 +1,6 @@
 # Funny Bunny - a very simple phaser game
 
-In this project, I researched a popular JavaScript game engine, Phaser. It is useful for creating 2d games in the browser. 
+In this project, I researched a popular JavaScript game engine, Phaser. It is useful for creating 2D games in the browser. 
 
 ## The instructions are simple: 
 You move the bunny using your keyboard arrow keys. 
