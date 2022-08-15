@@ -5,7 +5,7 @@ class mainScene {
     this.load.image("player", "./images/bunny1.png");
     this.load.image(
       "carrot",
-      "http://examples.phaser.io/assets/sprites/carrot.png"
+      "./images/carrot.png"
     );
   }
   create() {
