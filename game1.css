@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+.text {
+    color: white;
+    margin: 37px
+}
+
+#inst {
+    font-size: 25px;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+
+#game {
+    text-align: center;
+}
