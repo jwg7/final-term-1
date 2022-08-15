@@ -13,8 +13,7 @@ You may notice the bunny getting a bit fuller after so many carrots are eaten, w
 
 Key takeaway:
 
-- Game engines abstract alot of lower-level coding. Without them, it would take forever to program the simplest game. That's why virutally all of today's games are made with them. If you're interested in coding a game, it would be smart to start learning about all the different game engines available. 
-- I spent a lot of time looking at Babylon.js, a game engine capable of creating very powerful 3D experiences in the browser. Three.js is another good option. 
-
+- Game engines abstract a lot of lower-level coding. Without them, it would take forever to program the simplest game. That's why virutally all of today's games are made with them. If you're interested in coding a game, it would be smart to start learning about all the different game engines available. 
+- I also spent a good amount of time looking at Babylon.js, a game engine capable of creating very powerful 3D experiences in the browser. Three.js is another good option. 
 
 
