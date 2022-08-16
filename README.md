@@ -1,4 +1,4 @@
-# Funny Bunny - a very simple phaser game
+# Hungry Bunny - a very simple phaser game
 
 In this project, I researched a popular JavaScript game engine, Phaser. It is useful for creating 2D games in the browser. 
 
